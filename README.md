@@ -1,4 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mehrdad</h1>
+<h3 align="center">Computer Science student at Golestan university</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehrdad2005&label=Profile%20views&color=0e75b6&style=flat" alt="mehrdad2005" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehrdad2005" alt="mehrdad2005" /></a> </p>
+
+- 🌱 I’m currently learning **Software engineering**
+
+- 📫 How to reach me **eslammehrdad@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mehrdad-eslam-b4b9b6374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehrdad-eslam-b4b9b6374" height="30" width="40" /></a>
+<a href="https://instagram.com/mmehrdadd84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmehrdadd84" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehrdad2005&show_icons=true&locale=en&layout=compact" alt="mehrdad2005" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehrdad2005&show_icons=true&locale=en" alt="mehrdad2005" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrdad2005&" alt="mehrdad2005" /></p>
+
 
 <!--
 **mehrdad2005/mehrdad2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
