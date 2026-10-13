@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mehrdad2005&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/badge/Pull%20Shark-x2-7c3aed?style=for-the-badge&logo=github&labelColor=1e1b4b" alt="pull shark"/>
 <img src="https://img.shields.io/github/followers/mehrdad2005?style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b4b" alt="followers"/>
 <img src="https://img.shields.io/github/stars/mehrdad2005?style=for-the-badge&logo=starship&color=7c3aed&labelColor=1e1b4b" alt="stars"/>
 
@@ -89,11 +89,15 @@ class Mehrdad:
 </div>
 
 <!-- ═══════════════ TROPHIES ═══════════════ -->
-## 🏆 &nbsp;Trophies
+## 🏆 &nbsp;Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mehrdad2005&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%"/>
+<a href="https://github.com/mehrdad2005?tab=achievements">
+  <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-x2-7c3aed?style=for-the-badge&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/🎲%20YOLO-Unlocked-a78bfa?style=for-the-badge&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/🌱%20Learning-Software%20Engineering-6d28d9?style=for-the-badge&labelColor=1e1b4b"/>
+</a>
 
 </div>
 
@@ -109,15 +113,6 @@ class Mehrdad:
 </div>
 
 > 🎲 **Ludo Game** — a classic board game built with Python.
-
-<!-- ═══════════════ ACTIVITY ═══════════════ -->
-## 📈 &nbsp;Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehrdad2005&bg_color=0f0c29&color=c4b5fd&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Mehrdad%27s%20Contribution%20Graph" width="100%"/>
-
-</div>
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
 ## 🐍 &nbsp;Contribution Snake
